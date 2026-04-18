@@ -52,7 +52,7 @@ to drive business decisions in healthcare and life sciences.
 ---
 
 ## 📄 Resume
-👉 [Download My Resume](./Jyoti_Pandey_Resume_ATS.pdf)
+👉 [Download My Resume](Jyoti_Pandey_BusinessAnalytics_Resume.pdf)
 
 ---
 
